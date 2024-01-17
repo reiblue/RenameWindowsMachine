@@ -95,3 +95,4 @@ Este script foi desenvolvido para facilitar a padronização dos nomes de comput
 
 **Aviso:**
 - Use este script com responsabilidade e apenas em máquinas onde a renomeação é necessária. Verifique se o script atende aos seus requisitos específicos antes da execução.
+  ------------------
